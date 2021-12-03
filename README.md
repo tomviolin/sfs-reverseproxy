@@ -9,6 +9,6 @@ For example, instead of having to type
     
 SFS users will be able to use
 
-   waterbase.uwm.edu/intake
+   www.sfs.uwm.edu/intake
    
    
