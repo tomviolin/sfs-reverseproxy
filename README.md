@@ -5,7 +5,7 @@ This webserver microservice is intended to run on waterbase.uwm.edu and serve as
 
 For example, instead of having to type
 
-   [www.sfs-fatm.sfs.uwm.edu:8883/intake](http://www.sfs-fatm.uwm.edu:8883/intake)
+   [www.sfs-fatm.sfs.uwm.edu:8883/intake](http://www.sfs-fatm.sfs.uwm.edu:8883/intake)
 
 SFS users will be able to use
 
