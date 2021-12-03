@@ -1,1 +1,14 @@
 
+== SFS reverse proxy
+
+This webserver microservice is intended to run on waterbase.uwm.edu and serve as the friendly URL frontend for all SFS web services.
+
+For example, instead of having to type
+
+    http://sfs-fatm.sfs.uwm.edu:8883/intake
+    
+SFS users will be able to use
+
+   waterbase.uwm.edu/intake
+   
+   
