@@ -1,0 +1,12 @@
+version: "3.9"
+
+services:
+    webserver:
+        build: .
+        ports:
+            - "80:80"
+        volumes:
+            - /tmp/roarcalendars:/usr/share/nginx/html/roarcalendars
+            - /home/tomh/microservices/waples_mining/waples_mining_www:/usr/share/nginx/html/waples_mining
+            - /opt/webcam:/usr/share/nginx/html/webcam
+        restart: always
